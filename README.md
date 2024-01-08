@@ -1,5 +1,5 @@
 # PLANIFICACIO-DE-TRASPLANTAMENTS-DE-RONYO
 
-Carpetes:
-doc : documentació del manual d'usuari i els requerimetns d'instal·lació
-src : codi font
+## Carpetas:
+- **doc:** documentació - manual d'usuari i els requeriments d'instal·lació
+- **src:** codi font
