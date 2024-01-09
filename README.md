@@ -13,6 +13,6 @@ Les dades utilitzades provenen d'un conveni entre universitats, entre les quals 
 
 El repositori està organitzat de la següent manera:
 
-- **src/**: Conté tots els fitxers font del programa, incloent-hi els scripts de simulació i altres mòduls.
+- **src/**: Conté tots els fitxers .py del programa.
 - **doc/**: Aquest directori conté la documentació relacionada amb el projecte, incloent-hi el manual d'usuari i els requeriments d'instal·lació.
 
